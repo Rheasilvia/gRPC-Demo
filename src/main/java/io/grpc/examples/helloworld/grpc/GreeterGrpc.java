@@ -1,6 +1,6 @@
 package io.grpc.examples.helloworld.grpc;
 
-import javax.annotation.processing.Generated;
+import javax.annotation.Generated;
 
 import static io.grpc.MethodDescriptor.generateFullMethodName;
 import static io.grpc.stub.ClientCalls.asyncBidiStreamingCall;
